@@ -30,8 +30,19 @@
 
 
 H4Z4RD Tərəfindən yazılmıştır.
+
+
 Versiyası 0.01 Beta dır
+
+
+
 Beta olduğu üçün çətinliklər və yazı səhvləri çoxdur
+
+
 Yeni çıxacaq veriyalarda bütün problemlər aradan qaldırılacaq
+
+
 İstifadəsi çətin deyil. Sizə komək edəcək bütün məlumatlar istifadə zamanı bildirilir.
+
+
 Zəhmət olmasa programda yaşadığız çətinlikləri ve rastladığınız səhv ləri twitter dən bildirin
