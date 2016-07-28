@@ -20,7 +20,7 @@
 
 
 
-                                           V:0.01 Beta
+                                            V : 1.00
 
                                         Created By H4Z4RD
                                
@@ -32,14 +32,10 @@
 H4Z4RD Tərəfindən yazılmıştır.
 
 
-Versiyası 0.01 Beta dır
-
+Versiyası 1.00 dır
 
 
 Beta olduğu üçün çətinliklər və yazı səhvləri çoxdur
-
-
-Yeni çıxacaq veriyalarda bütün problemlər aradan qaldırılacaq
 
 
 İstifadəsi çətin deyil. Sizə komək edəcək bütün məlumatlar istifadə zamanı bildirilir.
