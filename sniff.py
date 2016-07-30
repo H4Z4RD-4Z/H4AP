@@ -1,5 +1,8 @@
 #!/usr/bin/python3
 
+import time
 import os
 
-os.system('ettercap -p -u -T -q -i at0')
+for i in range(10):
+    time.sleep(3)
+    os.system('ettercap -p -u -T -q -i at0')
