@@ -20,7 +20,7 @@
 
 
 
-                                            V : 1.00
+                                            V : 2.00
 
                                         Created By H4Z4RD
                                
@@ -29,16 +29,3 @@
                                    https://github.com/H4Z4RD-4Z/
 
 
-H4Z4RD Tərəfindən yazılmıştır.
-
-
-Versiyası 1.00 dır
-
-
-Beta olduğu üçün çətinliklər və yazı səhvləri çoxdur
-
-
-İstifadəsi çətin deyil. Sizə komək edəcək bütün məlumatlar istifadə zamanı bildirilir.
-
-
-Zəhmət olmasa programda yaşadığız çətinlikləri ve rastladığınız səhv ləri twitter dən bildirin
