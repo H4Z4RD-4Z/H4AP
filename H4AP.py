@@ -143,7 +143,7 @@ def server():
         if not os.path.isfile('/usr/sbin/dhcpd'):
            yukle = input("["+R+"-"+W+"]"+" "+dhcp_server_not_found)
            if yukle == "Y" or "y":
-               subprocess.check_output('sudo apt-get -y install isc-dhcp-server', shell=True)
+               subprocess.check_output('apt-get -y install isc-dhcp-server', shell=True)
                print(G+dhcp_server_installed+W)
 
            elif yukle == "N" or "n":
@@ -189,16 +189,16 @@ def airmon():
 
     print(fm)
     print(G + file_created + W)
-    os.system("sudo airmon-ng")
+    os.system("airmon-ng")
     interface = input(G+interface_select_1+W)
 
-    subprocess.check_output('sudo airmon-ng start' + ' ' + interface, shell=True)
+    subprocess.check_output('airmon-ng start' + ' ' + interface, shell=True)
 
     print(G+monitor_active+W)
 
     os.system('clear')
     print(fm)
-    os.system('sudo airmon-ng')
+    os.system('airmon-ng')
 
     moninterface = input(G+interface + " " + interface_select_2+W)
 
